@@ -185,8 +185,7 @@ main {
   ========================================
 */
 .navbar-elements {
-  /* background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgb(202, 172, 172) 31%); */
-  background-color: yellow;
+  background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(202, 172, 172) 31%,  rgb(133, 133, 133) 31% );
   justify-content: space-between;
   margin: 75px 250px 0px 250px;
   padding: 10px 50px;
