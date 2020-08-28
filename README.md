@@ -3,7 +3,7 @@
 
 A project to replicate elements of the old Apple homepage article
 
-![screenshot](./img/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Built With
 
