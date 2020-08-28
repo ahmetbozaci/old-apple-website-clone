@@ -11,7 +11,12 @@ A project to replicate elements of the old Apple homepage article
 - CSS3,
 - Icons from Font Awesome 
 
+## The project has
 
+ - Navigation bar with a color gradient
+ - Properly positioned background image
+ - Product grid  
+ - Footer
 
 
 ## Live Demo
@@ -26,7 +31,7 @@ A project to replicate elements of the old Apple homepage article
 
 - Github: [@ahmetbozaci ](https://github.com/ahmetbozaci )
 - Twitter: [@ahmtbozaci](https://twitter.com/ahmtbozaci)
-- Linkedin: [linkedin](https://linkedin.com/in/meron-ogbai-467414198/)
+- Linkedin: [linkedin](https://linkedin.com/in/ahmetbozaci)
 
 👤 **Alaukik**
 
