@@ -163,7 +163,7 @@ main {
 }
 
 .top {
-  background: url('img/background.jpg') no-repeat;
+  background: url('../img/background.jpg') no-repeat;
   background-size: cover;
   background-position: bottom;
   height: 100%;
@@ -189,6 +189,11 @@ main {
   font-weight: 500;
   font-size: 12px;
   background: linear-gradient(#808285 9%, #797a7a 11%, #777 13%, #757575 28%, #717171 35%, #717171 41%, #6e6e6e 43%, #6e6e6e 48%, #626262 50%, #616161 52%, #636363 70%, #666 76%, #666 89%, #727376 91%);
+}
+
+.navbar-elements a{
+  text-decoration: none;
+  color: aliceblue;
 }
 
 .fa-apple {
@@ -234,10 +239,12 @@ footer img {
   Other
   ========================================
 */
-
+.product-grid {
+  width: 100%;
+  grid-template-columns: 25% 25% 25% 25%;
+}
 .product-grid img {
-  width: 24.5%;
-  margin-left: 0.2%;
+  width: 100%;
 }
 
 footer {
