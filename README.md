@@ -7,8 +7,8 @@ A project to replicate elements of the old Apple homepage article
 
 ## Built With
 
-- HTML5,
-- CSS3,
+- HTML5
+- CSS3
 - Icons from Font Awesome 
 
 ## The project has
@@ -29,9 +29,9 @@ A project to replicate elements of the old Apple homepage article
 
 👤 **Ahmet Bozacı**
 
-- Github: [@ahmetbozaci ](https://github.com/ahmetbozaci )
-- Twitter: [@ahmtbozaci](https://twitter.com/ahmtbozaci)
-- Linkedin: [linkedin](https://linkedin.com/in/ahmetbozaci)
+- Github: [ahmetbozaci ](https://github.com/ahmetbozaci )
+- Twitter: [ahmtbozaci](https://twitter.com/ahmtbozaci)
+- Linkedin: [ahmetbozaci](https://linkedin.com/in/ahmetbozaci)
 
 👤 **Alaukik**
 
